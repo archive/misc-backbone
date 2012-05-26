@@ -1,0 +1,4 @@
+.products li .name {
+	display: inline-block;
+	width: 100px;
+}
